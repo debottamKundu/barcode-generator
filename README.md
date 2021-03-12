@@ -19,10 +19,10 @@ Usage:
 Generate a color profile of an entire movie or a particular scene
 
 positional arguments:<br>
-    **mode**            *use m to run the program to generate a barcode for movie, s to generate color-profile for a scene* <br>
-    **path**            *specify the path of the movie/scene* <br>
+     **mode**            *use m to run the program to generate a barcode for movie, s to generate color-profile for a scene* <br>
+     **path**            *specify the path of the movie/scene* <br>
 
 optional arguments:<br>
-    **-h, --help**      *show this help message and exit*<br>
-    **-length LENGTH**  *optional argument, the length of the barcode*<br>
-    **-colors COLORS**  *optional argument, the number of primary colors to be found in the scene*<br>
+     **-h, --help**      *show this help message and exit*<br>
+     **-length LENGTH**  *optional argument, the length of the barcode*<br>
+     **-colors COLORS**  *optional argument, the number of primary colors to be found in the scene*<br>
